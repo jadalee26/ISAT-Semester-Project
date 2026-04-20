@@ -1,0 +1,9 @@
+Location,Deaths,Missing,Estimated_Damage_USD,Key_Impacts
+Puerto Rico,2975,0,90000000000,"Catastrophic flooding, infrastructure collapse, 80% utility poles destroyed, island-wide power outage"
+Dominica,31,34,1310000000,"Widespread destruction of buildings, agriculture eliminated, communication systems down"
+Guadeloupe,2,0,120000000,"Severe crop loss, widespread power outages (~80,000 homes)"
+U.S. Virgin Islands,0,0,Included_in_PR_total,"Wind damage, flooding, mudslides, structural damage"
+Dominican Republic,5,0,Unknown,"Flooding, mudslides, communities isolated, power outages (~60,000 affected)"
+Haiti,3,0,Unknown,"Flood-related deaths"
+United States Mainland,4,0,Minimal,"Rip current deaths along East Coast"
+North Carolina,0,0,Minimal,"Minor coastal flooding, no significant structural damage"
