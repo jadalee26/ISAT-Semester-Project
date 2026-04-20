@@ -1,0 +1,6 @@
+Forecast Source,Forecast Period 12h,Forecast Period 24h,Forecast Period 36h,Forecast Period 48h,Forecast Period 72h,Forecast Period 96h,Forecast Period 120h
+OFCL,12.9,20.5,26.8,35.8,58.3,85.0,122.2
+OCD5,29.3,69.9,112.2,149.2,191.9,214.2,225.2
+Number of Forecasts,55,53,51,49,45,41,37
+OFCL (2012-2016 mean),24.9,39.6,54.0,71.3,105.8,155.4,208.9
+OCD5 (2012-2016 mean),47.3,103.9,167.8,230.3,343.1,442.6,531.0

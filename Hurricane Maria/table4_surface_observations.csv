@@ -1,0 +1,154 @@
+Location,Station ID,Latitude (°N),Longitude (°W),Min SLP Date/Time (UTC),Min Pressure (mb),Max Wind Date/Time (UTC),Sustained Wind (kt),Gust (kt),Wind Averaging Period,Storm Surge (ft),Storm Tide (ft),Est Inundation (ft),Total Rain (in),Notes
+ANTIGUA AND BARBUDA,,,,,,,,,,,,,,
+Antigua,,17.14,61.79,,, 19/0900,37,45,10m,,,,, AWOS
+Barbuda (BARA9),,17.59,61.82,19/1718,1005.8,,,,, 0.65,,0.7,, NOS
+DOMINICA,,,,,,,,,,,,,,
+Canefield Airport (TDCF),,15.34,61.39,19/0210,948,19/0140,73,116,10 min,,,,17.8, ICAO
+Douglas-Charles Airport (TDPD),,15.55,61.30,19/0240,960,19/0240,130,,10 min,,,,2.4, ICAO
+Cophall,,,,,,,,,,,,,22.8,
+Wet Area Belles,,,,19/0230,953,19/0200,56,73,10 min,,,,22.0,
+Salisbury,,15.44,61.44,,,,,,,,,,18.5,
+Pond Casse,,,,,,,,,,,,,14.6,
+Milton Estate,,,,,,,,,,,,,3.9,
+DOMINICAN REPUBLIC,,,,,,,,,,,,,,
+Arroyo Barril (MDAB),,19.20,69.43,21/1000,995.8,21/1500,40,74,5m,,,,12.2, ICAO
+Samana El Catey (MDCY),,19.27,69.73,21/0900,992.8,21/1500,34,65,20m,,,,5.9, ICAO
+Punta Cana (MDPC),,18.57,68.36,21/0100,993.0,21/0900,33,57,19m,,,,9.8, ICAO
+Sabana de la Mar,,19.05,69.38,21/1200,996.9,21/1500,16,59,3m,,,,12.9, Public/Other
+GUADELOUPE,,,,,,,,,,,,,,
+Guadeloupe,,16.27,61.53,,,19/0830,40,56,10m,,,,, AWOS
+Pointe-a-Pitre Le Raizet Airport (TFFR),,16.26,61.52,19/0400,997.6,19/0500,45,67,11m,,,,10.2, ICAO
+Grand Bourg Les Basses Airport (TFFM),,15.87,61.27,18/2300,996.6,18/2200,41*,66,10m,,,,2.1, ICAO
+La Desirade Grande Anse Airport (TFFA),,16.34,61.00,19/0200,1003.6,18/2200,52*,67,26m,,,,, ICAO
+Baillif Airport (TFFB),,16.01,61.74,,,19/0200,50,80,6m,,,,10.4, ICAO
+Gourbeyre Gros-Morne Dole,,16.00,61.67,,,19/0106,,88,,,,,,
+Pointe-Noire Bellevue,,16.23,61.78,,,19/0236,,86,,,,,,
+NORTH CAROLINA,,,,,,,,,,,,,,
+KHK Resort (XRTH),,35.58,75.47,27/1750,998.1,27/1655,42,51,16m,,,,, Weatherflow
+Oregon Inlet CG (XORE),,35.77,75.53,27/0640,999.7,27/1405,41,48,10m,,,,, Weatherflow
+Jennettes Pier (XJNP),,35.911,75.59,27/1805,1000.8,27/1600,41,48,18m,,,,, Weatherflow
+Stumpy Point Tower (XSTP),,35.71,75.77,,,27/1805,39,51,98m,,,,, Weatherflow
+Pamlico Sound (XPM2),,35.43,75.83,27/0731,997.7,26/1816,36,46,13m,,,,, Weatherflow
+REAL Slick (XSLK),,35.57,75.49,27/0735,999.3,27/1555,35,47,6m,,,,, Weatherflow
+Alligator Bridge (XALI),,35.90,76.01,27/0739,1000.8,26/2254,35,46,12m,,,,, Weatherflow
+Frisco Woods (XFRI),,35.25,75.63,27/0745,999.0,27/0145,35,45,6m,,,,, Weatherflow
+Hatteras High (XHAT),,35.26,75.55,27/0521,998.2,27/1616,34,44,22m,,,,, Weatherflow
+Avon Ocean (XAVO),,35.35,75.50,27/0719,998.7,26/2044,34,44,12m,,,,, Weatherflow
+Ocracoke (XOCR),,35.14,76.01,27/0725,1000.4,26/1640,34,42,8m,,,,, Weatherflow
+Diamond Shoals (41025),,35.01,75.40,27/0650,997.1,27/0550,36,47,5m,,,,, NDBC (1-min)
+USCG Station Hatteras (HCGN7),,35.21,75.70,27/0700,1000.7,26/2000,36,44,10m,2.85,2.94,2.7,, NOS
+Duck (DUKN7),,36.18,75.75,27/1818,1001.7,27/1130,38,44,16m,2.11,3.24,1.7,, NOS
+Oregon Inlet Marina (ORIN7),,35.80,75.55,27/0654,1001.0,27/0724,30,43,8m,1.75,1.92,1.4,, NOS
+Beaufort (BFTN7),,34.72,76.67,27/0700,1003.7,26/1830,29,41,9m,1.54,2.84,1.4,, NOS
+Wrightsville Beach (JMPN7),,34.21,77.79,26/2130,1006.4,29/0912,26,29,15m,1.59,3.19,1.4,, NOS
+Wilmington (WLON7),,34.23,77.95,27/1912,1007.3,,,,,1.79,,0.9,, NOS
+Corbina,,35.60,75.47,,,27/1754,39,51,,,,,,Public/Other
+Kill Devil Hills,,36.01,75.66,27/0644,1003,27/1629,35,36,,,,,,Public/Other
+PUERTO RICO,,,,,,,,,,,,,,
+Isla Culebrita Light (XCUL),,18.31,65.23,20/0839,957.8,20/0844,101,120,83m,,,,, Weatherflow
+San Juan NAVAID (XJUA),,18.46,66.13,,,20/1130,79*,95,14m,,,,, Weatherflow
+Gurabo (XGUR),,18.26,65.99,20/1130,943.4,20/1010,70*,104,62m,,,,, Weatherflow
+Del Rey Marina (XREY),,18.29,65.63,20/0700,995.3,20/0840,69*,87,10m,,,,, Weatherflow
+Yabucoa-El Negro (XYAB),,18.05,65.83,20/0931,937.5,20/0906,66*,102,13m,,,,, Weatherflow
+Las Mareas (XMRS),,17.93,66.16,,,20/1214,94,109,11m,,,,, Weatherflow
+Yabucoa Harbor (YABP4),,18.06,65.83,,,20/1124,71*,98*,6m,5.44*,,5.3*,, PR Seismic Network
+Fajardo (FRDP4),,18.34,65.63,20/0848,977.4*,20/0848,63*,85*,6m,3.17*,,2.2*,, PR Seismic Network
+Isabel Segunda Vieques (VQSP4),,18.15,65.44,,,20/0748,44*,89*,6m,2.86,,2.0,, PR Seismic Network
+Arecibo (AROP4),,18.48,66.70,20/1536,963.7,20/1342,69,98,6m,2.40,,1.9,, RAWS
+San Juan Bay (SJNP4),,18.46,66.12,20/1212,975.5*,20/0948,42*,61*,7m,2.35*,3.18*,2.4*,, NOS
+Mona Island (MISP4),,18.09,67.94,20/2012,998.8,,,,, 2.54,2.81,2.4,, NOS
+Mayaguez (MGZP4),,18.22,67.16,20/1724,977.1,20/1948,52*,68*,12m,2.56*,2.17*,1.4*,, NOS
+Culebra (CLBP4),,18.30,65.30,20/0830,983.0,,,,, 1.56,1.69,1.1,, NOS
+Esperanza Vieques (ESPP4),,18.09,65.47,20/0630,986.5*,20/0630,27*,53*,11m,0.99*,1.19*,0.8*,, NOS
+Magueyes Island (MGIP4),,17.97,67.05,20/1224,993.4*,20/1148,38*,56*,8m,0.40*,0.91*,0.5*,, NOS
+Camp Santiago (CSAP4),,18.01,66.29,,,20/1109,55,103,91m,,,,7.56, RAWS
+Cabo Rojo (CRRP4),,18.08,67.15,,,20/1857,43,70,32m,,,,7.92, RAWS
+Vieques Buoy (41056),,18.26,65.46,20/0820,977.4,20/0830,54*,64,4m,,,,, CarICOOS
+Ponce Buoy (42085),,17.86,66.52,20/1100,983.0,20/1600,51*,68,4m,,,,, CarICOOS
+San Juan Buoy (41053),,18.47,66.10,20/1320,981.5,20/1020,51*,66,4m,,,,, CarICOOS
+Yabucoa,,18.04,65.87,20/1009,926.6,,,,,,,,, Public/Other
+Palmas Del Mar Humacao,,18.08,65.80,20/0947,929.4,,,,,,,,, Public/Other
+Caguas (CAIP4),,18.23,66.04,,,,,,,,,,37.90, Public/Other
+Villalba (TOXP4),,18.13,66.48,,,,,,,,,,27.82, Public/Other
+Caguas (BZDP4),,18.23,66.04,,,,,,,,,,23.43, Public/Other
+Villalba (VINP4),,18.13,66.48,,,,,,,,,,22.95, Public/Other
+Aibonito (AIBP4),,18.14,66.27,,,,,,,,,,22.79, Public/Other
+Coamo (COAP4),,18.08,66.35,,,,,,,,,,19.38, Public/Other
+Ciales (VILP4),,18.33,66.47,,,,,,,,,,19.23, Public/Other
+Caguas (BZCP4),,18.23,66.04,,,,,,,,,,18.51, Public/Other
+Utuado (VIVP4),,18.27,66.70,,,,,,,,,,18.38, Public/Other
+Comerio (COMP4),,18.22,66.22,,,,,,,,,,17.50, Public/Other
+Juncos 1S (VALP4),,18.22,65.93,,,,,,,,,,16.86, Public/Other
+Yauco (LLYP4),,18.03,66.86,,,,,,,,,,16.73, Public/Other
+San Lorenzo (SLGP4),,18.19,65.97,,,,,,,,,,16.52, Public/Other
+Bayamon (BAYP4),,18.38,66.16,,,,,,,,,,16.36, Public/Other
+Caguas 6WSW (CAHP4),,18.21,66.11,,,,,,,,,,15.91, Public/Other
+San Lorenzo (SLEP4),,18.19,65.97,,,,,,,,,,15.22, Public/Other
+Arecibo (ARFP4),,18.45,66.73,,,,,,,,,,14.71, Public/Other
+Caguas 1NE (CAMP4),,18.23,66.04,,,,,,,,,,13.56, Public/Other
+Cidra (DRAP4),,18.17,66.16,,,,,,,,,,12.17, Public/Other
+Aguas Buenas (BZAP4),,18.25,66.11,,,,,,,,,,12.15, Public/Other
+Ponce (PRTP4),,17.98,66.61,,,,,,,,,,11.65, Public/Other
+San German (MAOP4),,18.08,67.05,,,,,,,,,,11.12, Public/Other
+Ponce (PRNP4),,17.98,66.61,,,,,,,,,,10.47, Public/Other
+Utuado (UTHP4),,18.27,66.70,,,,,,,,,,10.11, Public/Other
+Orocovis 6SW (OROP4),,18.21,66.48,,,,,,,,,,9.76, Public/Other
+Patillas 1NE (PASP4),,18.02,66.02,,,,,,,,,,9.42, Public/Other
+Juncos 7ENE (GUSP4),,18.25,65.83,,,,,,,,,,9.3, Public/Other
+Guanica (GCAP4),,17.97,66.93,,,,,,,,,,7.12, Public/Other
+Lares (LARP4),,18.29,66.88,,,,,,,,,,6.91, Public/Other
+Naguabo (NGIP4),,18.21,65.74,,,,,,,,,,6.31, Public/Other
+Caguas 4NW (BZBP4),,18.27,66.10,,,,,,,,,,6.14, Public/Other
+Juncos 0.3WSW (PR-JN-1),,18.22,65.92,,,,,,,,,,25.0, CoCoRaHS
+Trujillo Alto 0.8WSW (PR-TR-2),,18.36,66.03,,,,,,,,,,15.43, CoCoRaHS
+Rincon 2.8SE (PR-RN-4),,18.32,67.22,,,,,,,,,,11.78, CoCoRaHS
+Juana Diaz 2.9SW (PR-JD-2),,18.03,66.54,,,,,,,,,,8.78, CoCoRaHS
+Lajas 2.2E (PR-LJ-2),,18.04,67.03,,,,,,,,,,8.52, CoCoRaHS
+Cabo Rojo 0.8SE (PR-CR-1),,18.08,67.14,,,,,,,,,,7.69, CoCoRaHS
+Aguadilla 5.5NNE (PR-AL-3),,18.51,67.11,,,,,,,,,,6.21, CoCoRaHS
+Fajardo 0.4NE (PR-FJ-2),,18.34,65.65,,,,,,,,,,5.7, CoCoRaHS
+Arrayao Punta Santiago (PRHUM23681),,18.17,65.74,,,,,,,,9.52,,4.9, USGS High Water Mark
+Playa de Naguabo (PRHUM23708),,18.19,65.73,,,,,,,,8.76,,1.4, USGS High Water Mark
+Playa de Naguabo (PRHUM23697),,18.18,65.71,,,,,,,,8.75,,2.9, USGS High Water Mark
+Playa de Guayanes (PRYAB20635),,18.06,65.82,,,,,,,,8.70,,,, USGS High Water Mark
+Punta Santiago (PRHUM23667),,18.16,65.75,,,,,,,,8.48,,5.1, USGS High Water Mark
+Marina Puerto Chico (PRFAJ20587),,18.35,65.64,,,,,,,,5.51,,,, USGS High Water Mark
+Playa Medio Mundo (PRCEI22309),,18.27,65.63,,,,,,,,5.23,,2.5, USGS High Water Mark
+Ocean Park Beach San Juan (PRSAN20648),,18.45,66.04,,,,,,,,7.95,,,, USGS Storm Tide Sensor
+Villa Pesquera (PRMAU22311),,17.99,65.89,,,,,,,,4.26,,,, USGS Storm Tide Sensor
+Juana Diaz (PRJUA22307),,17.99,66.48,,,,,,,,4.24,,,, USGS Storm Tide Sensor
+Playa Medio Mundo (PRCEI22309),,18.27,65.63,,,,,,,,4.21,,,, USGS Storm Tide Sensor
+Villa Pesquera Beach of Patillas (PRPAT22312),,17.98,65.99,,,,,,,,4.13,,,, USGS Storm Tide Sensor
+Malecon de Arroyo (PRARR22313),,17.96,66.06,,,,,,,,3.93,,,, USGS Storm Tide Sensor
+Jobos Bay (PRSAL22314),,17.95,66.23,,,,,,,,3.84,,,, USGS Storm Tide Sensor
+Marina Puerto Chico (PRFAJ20587),,18.35,65.64,,,,,,,,3.66,,,, USGS Storm Tide Sensor
+Villa Pesquera Santa Isabel (PRSAN22316),,17.96,66.41,,,,,,,,3.62,,,, USGS Storm Tide Sensor
+Dorado Public Beach (PRDOR20633),,18.48,66.28,,,,,,,,3.24,,,, USGS Storm Tide Sensor
+Playa de Ponce (PRPON22310),,17.98,66.62,,,,,,,,2.69,,,, USGS Storm Tide Sensor
+SAINT MARTIN,,,,,,,,,,,,,,
+Cul-de-Sac,,18.05,63.06,,,19/0316,38*,48,,,,,,
+ST. EUSTATIUS,,,,,,,,,,,,,,
+St. Eustatius,,17.49,62.98,,,19/1455,37,52,10m,,,,, AWOS
+TURKS AND CAICOS ISLANDS,,,,,,,,,,,,,,
+Grace Bay,,21.80,72.18,,,22/0930,41,48,,,,,,Public/Other
+U.S. VIRGIN ISLANDS,,,,,,,,,,,,,,
+South of St. John (41052),,18.25,64.76,20/0700,992.5,20/0830,41,56,4m,,,,, CarICOOS
+Lime Tree Bay St. Croix (LTBV3),,17.70,64.75,20/0342,976.1*,20/0330,60*,89*,10m,2.85*,3.17*,2.8*,, NOS
+Christiansted Harbor St. Croix (CHSV3),,17.75,64.70,20/0518,978.4,20/0142,43,65,8m,2.27,2.36,2.0,, NOS
+Lameshur Bay St. John (LAMV3),,18.32,64.72,20/0612,998.2,,,,, 1.48,1.61,1.2,, NOS
+Sandy Point NWR St. Croix (XCRX),,17.68,64.90,20/0538,950.1,20/0618,93,119,20m,,,,, Weatherflow
+Rupert Rock St. Thomas (XRUP),,18.33,64.93,20/0701,993.6,20/0201,39*,56,5m,,,,, Weatherflow
+Christiansted St. Croix (CVAV3),,17.74,64.62,,,20/0613,86,118,,,5.03,,,,Public/Other
+VIRGINIA,,,,,,,,,,,,,,
+Chesapeake Light Tower (XCLT),,36.90,75.71,27/1951,998.8,27/1816,36,42,41m,,,,, Weatherflow
+Virginia Beach (44014),,36.61,74.84,27/1750,998.5,27/1559,37,43,5m,,,,, NDBC (1-min)
+Sewells Point (SWPV2),,36.94,76.33,27/2030,1005.8,,,,, 1.94,2.83,1.7,, NOS
+Chesapeake Bay Bridge Tunnel (CHBV2),,37.03,76.08,27/2018,1005.0,26/1900,31,36,,1.87,,1.6,, NOS
+Wachapreague (WAHV2),,37.61,75.69,27/2042,1004.9,27/1742,28,35,9m,1.96,3.22,1.4,, NOS
+Kiptopeke (KPTV2),,37.17,75.99,,,27/1624,21,27,10m,1.66,2.37,1.3,, NOS
+OFFSHORE,,,,,,,,,,,,,,
+Caribbean Valley (42060),,16.41,63.19,19/1500,955.7,19/1442,74,82,4m,,,,, NDBC (1-min)
+NE Bahamas (41047),,27.52,71.53,24/0630,987.4,24/0154,58,74,4m,,,,, NDBC (1-min)
+South Hatteras (41002),,31.76,74.84,26/0250,992.4,25/2350,41,52,5m,,,,, NDBC (5-min)
+East Bahamas (41046),,23.83,68.42,22/2210,1004.9,22/2055,37,45,4m,,,,, NDBC (1-min)
+West Bermuda (41048),,31.86,69.59,25/2000,1007.0,25/0808,35,39,5m,,,,, NDBC (1-min)
